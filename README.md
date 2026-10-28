@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="PNGs/NEBIUS-color.png" alt="Nebius logo" width="320" />
+
 # Nebius Physical AI
 
 **The agent control plane for Physical AI on Nebius.**
